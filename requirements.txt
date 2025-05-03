@@ -1,0 +1,10 @@
+opencv-contrib-python>=4.2.0
+numpy>=1.18.0
+pandas
+matplotlib>=3.2.0
+supervision
+ultralytics>=8.0.0
+pillow>=8.0.0
+pathlib>=1.0.1
+scikit-learn>=0.24.0
+tk>=0.1.0
